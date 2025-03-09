@@ -13,3 +13,18 @@ body {
 	background-color: #fff;
 	overflow-x: hidden;
 }
+
+::-webkit-scrollbar {
+	width: 9px;
+	height: 9px;
+}
+::-webkit-scrollbar * {
+	background: transparent;
+}
+::-webkit-scrollbar-thumb {
+	background: #9e8464 !important;
+	border-radius: 20px;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #8a7358 !important;
+}
