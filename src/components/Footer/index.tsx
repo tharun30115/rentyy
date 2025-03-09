@@ -59,14 +59,14 @@ const Footer = () => {
 								src={loc}
 								alt="location"
 							/>
-							<span className="text-white">State Road 54 Trinity, Florida</span>
+							<span className="text-white">Banglore, India</span>
 						</div>
 						<div className="flex items-center gap-2">
 							<img
 								src={call}
 								alt="phone"
 							/>
-							<span className="text-white">Call: 666 333 9999</span>
+							<span className="text-white">Call: +91 9988008890</span>
 						</div>
 						<div className="flex items-center gap-2">
 							<img
@@ -97,13 +97,13 @@ const Footer = () => {
 			</div>
 			<div className="w-full flex lg:flex-row flex-col items-center justify-between lg:py-0 py-5 lg:h-[80px] border-t border-[#5F5F5F] lg:px-[310px] px-5">
 				<span className="text-white font-medium">
-					© Limo, All rights reserved - Developed by{" "}
+					© Limo, All rights reserved - made by{" "}
 					<a
-						href="https://www.youtube.com/channel/UCCW0Rmnu7AocSIcc0PUMH0Q"
+						href="https://github.com/tharun30115/rentyy"
 						target="_blank"
 						className="underline"
 					>
-						CodeItDown
+						tharun
 					</a>
 				</span>
 				<div className="hidden lg:flex items-center gap-7">
